@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import org.testng.asserts.Assertion;
 
-public class SecondTest {
+public class FirstTest {
     @Test
     public void Test()
     {
